@@ -1,0 +1,16 @@
+body{background-color: #E8DAEF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tamanioLetra{font-size: 45px}
+.azulLetra{color:#0000FF}
+.subraya{text-decoration: underline;}
+.alineaCentro{text-align: center;}
+img , iframe, audio{
+  margin: auto;
+  display: block;
+}
+
+img{
+  width: 45%
+}
